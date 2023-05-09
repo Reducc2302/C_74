@@ -1,8 +1,8 @@
 {
     "saudafa@outlook.com": {
-        "Last check": "2023-05-08",
-        "Today's points": 870,
-        "Points": 955
+        "Last check": "2023-05-09",
+        "Today's points": 466,
+        "Points": 1421
     },
-    "Elapsed time": "00:22:24"
+    "Elapsed time": "00:12:53"
 }
